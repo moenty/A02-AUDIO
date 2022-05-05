@@ -1,4 +1,31 @@
-*{
+* {
     margin:0;
     padding: 0;
+}
+body {
+    background-image: url("back.jpg");
+    background-size: 100% auto;
+}
+h1 {
+    font-size: 1000%;
+    color: azure;
+    text-align: right;
+    margin-bottom: -10.5%;
+    margin-right: 15%;
+}
+img {
+    position:absolute;
+    width: 45%;
+    height: 95%;
+    margin-bottom: 5%;
+    margin-left: 2%;
+}
+
+iframe{
+    position: absolute;
+    right: 1%; 
+    width: 50%; 
+    height: 65%; 
+    margin-top: 13.45%;
+    
 }
